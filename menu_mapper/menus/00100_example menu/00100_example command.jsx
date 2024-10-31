@@ -1,0 +1,1 @@
+alert( 'example command. Note that in my testing you can put characters like "★" in the menu name, but not emojis, which will crash indesign.\n\nEmojis do seem to be fine in the actual script file names, so here it could be called "00100_🐥 example command.jsx"' )
